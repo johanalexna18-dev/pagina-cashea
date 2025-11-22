@@ -1,0 +1,55 @@
+
+
+.parent {
+  background-color: lightyellow;
+  padding: 30px;
+  
+}
+
+.item {
+  margin: 4px;
+}
+
+.Botones{
+    justify-content: left;
+}
+
+p{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.cajitas{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.imagenes{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(247, 243, 6);
+    padding: 35;
+
+}
+
+.centrar{
+    display: flex;
+    justify-content: center;
+}
+
+.centrar2{
+    display: flex;
+    justify-content: center;
+}
+
+.centrar3{
+    display: flex;
+    justify-content: center;
+}
+
+h4{
+    text-align: center;
+}
